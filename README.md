@@ -228,7 +228,8 @@ This project is for educational and analytical purposes.
 
 ## 👤 Author
 
-Generated for: Anand kishor 
+Generated for: Anand kishor  
+
 Date: 2026-06-23
 
 ## 🙏 Acknowledgments
