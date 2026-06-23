@@ -1,0 +1,26 @@
+# Data Analytics Project - Requirements
+# Install using: pip install -r requirements.txt
+
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Utilities
+openpyxl>=3.1.0
+
+# Web Application & Deployment
+streamlit>=1.30.0
+joblib>=1.3.0
+plotly>=5.14.0
